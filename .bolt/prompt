@@ -1,5 +1,179 @@
-For all designs I ask you to make, have them be beautiful, not cookie cutter. Make webpages that are fully featured and worthy for production.
+Build a premium modern SaaS website for a School ERP & CRM software platform using Vite + React + Tailwind CSS.
 
-By default, this template supports JSX syntax with Tailwind CSS classes, React hooks, and Lucide React for icons. Do not install other packages for UI themes, icons, etc unless absolutely necessary or I request them.
+Project Name:
+EduFlow ERP CRM
 
-Use icons from lucide-react for logos.
+Tagline:
+"Complete School Management & Admission CRM Platform"
+
+Tech Stack:
+- Vite
+- React
+- Tailwind CSS
+- React Router DOM
+- Framer Motion
+- Lucide React Icons
+
+Design Style:
+- Premium SaaS UI
+- Modern enterprise dashboard look
+- Blue and indigo gradients
+- Glassmorphism effects
+- Soft shadows
+- Smooth animations
+- Mobile-first responsive
+- Clean typography
+- Dark/light mode support
+
+Pages Required:
+
+1. Home Page
+Include:
+- Hero section with strong CTA
+- Dashboard preview mockup
+- Features section
+- Benefits section
+- Statistics counters
+- Testimonials
+- Pricing preview
+- FAQ section
+- Contact CTA
+- Modern footer
+
+Hero Headline:
+"Manage Admissions, Fees, Students & Communication in One Smart Platform"
+
+CTA Buttons:
+- Book Demo
+- Free Trial
+
+2. Features Page
+Create animated feature cards for:
+- Student Management
+- Admission CRM
+- Attendance Tracking
+- Fee Management
+- Parent Communication
+- Staff Payroll
+- Exam Management
+- Hostel Management
+- Library Management
+- Transport Tracking
+- AI Analytics
+- Mobile App Integration
+
+3. Modules Page
+Create ERP modules UI with:
+- Sidebar navigation
+- Interactive cards
+- Animated sections
+- Detailed module descriptions
+
+Modules:
+- Academic ERP
+- CRM for Admissions
+- HR & Payroll
+- Finance & Accounting
+- Examination
+- Hostel
+- Transport
+- Communication System
+
+4. Pricing Page
+Create modern pricing cards:
+- Starter
+- Professional
+- Enterprise
+
+Include:
+- Monthly/yearly toggle
+- Feature comparison
+- Recommended plan highlight
+- CTA buttons
+
+5. About Page
+Include:
+- Company mission
+- Vision
+- Timeline
+- Team section
+- Technology stack
+- Trust badges
+
+6. Contact Page
+Include:
+- Contact form
+- Google Maps placeholder
+- WhatsApp floating button
+- Company information
+- Demo booking section
+
+Components to Create:
+- Navbar
+- HeroSection
+- FeatureCard
+- PricingCard
+- FAQAccordion
+- Footer
+- CTASection
+- TestimonialCard
+- DashboardPreview
+- AnimatedCounter
+
+Technical Requirements:
+- Use React functional components
+- Use reusable component architecture
+- Use Tailwind utility classes only
+- Fully responsive layout
+- SEO-friendly structure
+- Sticky navbar
+- Smooth scrolling
+- Framer Motion animations
+- Scroll reveal effects
+- Back-to-top button
+- Loading animation
+
+Folder Structure:
+src/
+  components/
+  pages/
+  layouts/
+  assets/
+  hooks/
+  data/
+
+Extra UI Features:
+- Gradient backgrounds
+- Analytics chart placeholders
+- Interactive hover effects
+- Floating cards
+- Premium SaaS sections
+- Animated dashboard widgets
+- Accessibility best practices
+
+Color Palette:
+Primary: #2563eb
+Secondary: #4f46e5
+Accent: #06b6d4
+Background: #f8fafc
+
+Typography:
+Use modern clean fonts like Inter or Poppins.
+
+Content Tone:
+Professional, trustworthy, enterprise-level, tech-focused.
+
+Generate:
+- Full Vite + React project
+- Tailwind setup
+- Complete responsive pages
+- Dummy content/data
+- README.md with setup instructions
+- Production-ready clean code
+
+At the end:
+- install all dependencies
+- configure Tailwind properly
+- ensure npm run dev works without errors
+
+The final website should look like a billion-dollar SaaS startup website similar to HubSpot, Zoho, Salesforce, or Freshworks.
